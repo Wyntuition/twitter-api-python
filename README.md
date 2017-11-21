@@ -15,7 +15,8 @@
 
 ## Get a stream a tweets, save to a file
 
-`python stream-tweets-to-file.py -q dotnetcore -d data`
+1. mkdir data
+1. `python stream-tweets-to-file.py -q dotnetcore -d data`
 
 ## Display tweets in file
 
