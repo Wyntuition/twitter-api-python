@@ -1,5 +1,7 @@
 # Ineracting with the Twitter API with Python (Tweepy)
 
+Based on the Twitter data mining exercise from here, https://marcobonzanini.com/2015/03/09/mining-twitter-data-with-python-part-2/
+
 ## Setup
 
 1. Create an application if you haven't yet, at `api.twitter.com`, get the credentials and put them in `config.py` as:
