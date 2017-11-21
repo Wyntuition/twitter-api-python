@@ -19,4 +19,6 @@
 1. Create a directory for saving the streamed tweets to json, `mkdir data`
 1. Run, replacing the -q with your query term and your file will be stored in data/, `python stream-tweets.py -q washington -d data`
 
-### Display timeline, display tweets, display followers, display tweet metadata, display top tweets, display top tweets for topic
+### General Functions
+
+See the `general-twitter-functions` file for some of these things that could be done: Display timeline, display tweets, display followers, display tweet metadata, display top tweets, display top tweets for topic
