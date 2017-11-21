@@ -11,7 +11,7 @@
     access_secret = '<ENTER>'
     ```
 
-1. Run the provided Python scripts that, see the examples below.
+1. Run the provided Python scripts that do things such as listing tweets, timelines & friends. See the examples below.
 
 ## Get a stream a tweets, save to a file
 
